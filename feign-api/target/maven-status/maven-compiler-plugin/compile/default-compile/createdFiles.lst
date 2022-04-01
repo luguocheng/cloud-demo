@@ -1,0 +1,3 @@
+com\lugc\feign\entity\User.class
+com\lugc\feign\clients\UserClient.class
+com\lugc\feign\config\DefaultFeignConfiguration.class
