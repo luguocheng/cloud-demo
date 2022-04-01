@@ -1,5 +1,6 @@
 package com.lugc.order.entity;
 
+import com.lugc.feign.entity.User;
 import lombok.Data;
 
 /**
